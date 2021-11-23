@@ -16,29 +16,13 @@ export default function ProductList() {
 
   return products.map(product => {
     return (
-      <ProductItem
-        key={product.data.id}
-        product={product}></ProductItem>
+      <ProductItem key={product.id} product={product}></ProductItem>
     );
   });
 }
 
 function ProductItem({ product }) {
-  const {
-    data: {
-      attributes: {
-        name,
-        main_image: {
-          image_sizes: { original },
-        },
-        description_bullet_points,
-        categories,
-      },
-      id,
-    },
-  } = product;
-  // const { id, name, category, image, description } = product;
-  const price = formatTotalPrice(product);
+  const { id, name, category, image, description, price } = product;
 
   return (
     <div className='p-4 md:w-1/3'>
@@ -46,20 +30,18 @@ function ProductItem({ product }) {
         <Link to={`/${id}`}>
           <img
             className='lg:h-96 md:h-36 w-full object-cover object-center'
-            src={original}
+            src={image}
             alt=''
           />
         </Link>
         <div className='p-6'>
           <h2 className='tracking-widest text-xs title-font font-medium text-gray-500 mb-1'>
-            {/* {categories[0].id} */}
+            {category}
           </h2>
           <h1 className='title-font text-lg font-medium text-white mb-3'>
             {name}
           </h1>
-          <p className='leading-relaxed mb-3'>
-            {description_bullet_points[0]}
-          </p>
+          <p className='leading-relaxed mb-3'>{description}</p>
           <div className='flex items-center flex-wrap '>
             <Link
               to={`/${id}`}
@@ -77,7 +59,7 @@ function ProductItem({ product }) {
               </svg>
             </Link>
             <span className='text-gray-500 mr-3 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-lg pr-3 py-1 border-gray-800 font-bold'>
-              {/* {price} */}
+              {price}
             </span>
           </div>
         </div>

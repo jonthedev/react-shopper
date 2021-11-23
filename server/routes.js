@@ -1,7 +1,6 @@
 require('dotenv').config();
 const express = require('express');
-// const products = require('./products.json');
-const products = require('./nelson-products.json');
+const products = require('./products.json');
 const stripe = require('stripe')(process.env.STRIPE_API_SECRET);
 const {
   validateCartItems,

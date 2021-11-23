@@ -1,0 +1,3554 @@
+[
+  {
+    "data": {
+      "type": "products",
+      "id": 362950,
+      "attributes": {
+        "name": "Van Lier",
+        "slug": "van-lier-lage-nette-schoenen-cognac",
+        "state": "ORDERABLE",
+        "requires_shipping": true,
+        "product_sku": "nls-12320310-63",
+        "product_type": "Shoes",
+        "product_classification": "Lage nette schoenen",
+        "catalogue_number": "12320310-63",
+        "description": "",
+        "structure": "PARENT",
+        "description_bullet_points": [
+          "Van Lier heren nette schoen",
+          "Deze nette schoen van Van Lier maakt elke stijvolle outfit helemaal af!",
+          "De schoen is uitgevoerd in leer.",
+          "De binnenkant is gevoerd in een combinatie van leer en textiel.",
+          "Dit model beschikt over een uitneembaar voetbed.",
+          "Voorzien van speelse details in de vorm van gespen en opliggende stiknaden"
+        ],
+        "brand": {
+          "type": "brands",
+          "id": 39,
+          "attributes": {
+            "name": "Van Lier",
+            "slug": "van-lier",
+            "logo": {
+              "type": "brand_logo",
+              "url": "https://neleos-assets.nelson.nl/media/brand_logo/24266d0814a28ad5876016e28c3a9c4e.png",
+              "variants": {
+                "thumbnail": "https://neleos-assets.nelson.nl/media/brand_logo/24266d0814a28ad5876016e28c3a9c4e.thumbnail.width-100-1.png",
+                "small_fit": "https://neleos-assets.nelson.nl/media/brand_logo/24266d0814a28ad5876016e28c3a9c4e.small_fit.fit-200-100-255-255-255-0-enlarge-0.png",
+                "medium_fit": "https://neleos-assets.nelson.nl/media/brand_logo/24266d0814a28ad5876016e28c3a9c4e.medium_fit.fit-600-300-255-255-255-0-enlarge-0.png"
+              }
+            },
+            "description": "Er is een natuurwet die zegt dat al dat groots is, klein begon. Zo ook Van Lier. In het jaar 1815 lag aan de Langstraat in het Brabantse Loon op Zand, de werkplaats van de familie Van Lier. Het merk blijft ontwikkelen, spelen met kleur \u00e9n experimenteren met pasvormen. Daarnaast heeft Van Lier inmiddels dus ook bijna 200 jaar ervaring extra en combineert de traditionele kennis met de moderne technieken. Zo levert Van Lier elke dag de schoen van morgen."
+          }
+        },
+        "product_attributes": [
+          { "name": "color", "value": "Cognac" },
+          { "name": "season", "value": "Standaard" },
+          { "name": "genders", "value": ["MALE"] },
+          { "name": "fastener", "value": "Gesp" },
+          { "name": "fit_type", "value": "Normaal" },
+          { "name": "material", "value": "Glad leer" },
+          { "name": "age_groups", "value": ["ADULT"] },
+          { "name": "target_groups", "value": ["MALE"] },
+          { "name": "inner_material", "value": ["Leer", "Textiel"] },
+          { "name": "outer_material", "value": "Leer" },
+          { "name": "removable_sole", "value": true },
+          { "name": "color_manufacturer", "value": "Cognac" },
+          { "name": "inner_sole_material", "value": "Leer" },
+          { "name": "outer_sole_material", "value": "Rubber" },
+          { "name": "product_number", "value": "12320310-63" }
+        ],
+        "categories": [
+          {
+            "id": 62,
+            "name": "Lage nette schoenen",
+            "slug": "lage-nette-schoenen",
+            "slug_path": "heren/schoenen/nette-schoenen/lage-nette-schoenen",
+            "name_path": "Heren/Schoenen/Nette schoenen/Lage nette schoenen"
+          },
+          {
+            "id": 203,
+            "name": "Lage nette schoenen",
+            "slug": "lage-nette-schoenen",
+            "slug_path": "schoenen/nette-schoenen/lage-nette-schoenen",
+            "name_path": "Schoenen/Nette schoenen/Lage nette schoenen"
+          }
+        ],
+        "main_image": {
+          "media_type": "IMAGE",
+          "media_source": "neleos",
+          "image_type": "MAIN",
+          "image_sizes": {
+            "original": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-1-1500.jpg",
+            "large": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-1-800.jpg",
+            "medium": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-1-400.jpg",
+            "small": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-1-100.jpg",
+            "thumbnail": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-1-50.jpg"
+          }
+        },
+        "media": [
+          {
+            "media_type": "IMAGE",
+            "media_source": "neleos",
+            "image_type": "MAIN",
+            "image_sizes": {
+              "original": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-1-1500.jpg",
+              "large": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-1-800.jpg",
+              "medium": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-1-400.jpg",
+              "small": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-1-100.jpg",
+              "thumbnail": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-1-50.jpg"
+            }
+          },
+          {
+            "media_type": "IMAGE",
+            "media_source": "neleos",
+            "image_type": "ALTERNATE",
+            "image_sizes": {
+              "original": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-2-1500.jpg",
+              "large": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-2-800.jpg",
+              "medium": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-2-400.jpg",
+              "small": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-2-100.jpg",
+              "thumbnail": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-2-50.jpg"
+            }
+          },
+          {
+            "media_type": "IMAGE",
+            "media_source": "neleos",
+            "image_type": "ALTERNATE",
+            "image_sizes": {
+              "original": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-3-1500.jpg",
+              "large": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-3-800.jpg",
+              "medium": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-3-400.jpg",
+              "small": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-3-100.jpg",
+              "thumbnail": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-3-50.jpg"
+            }
+          },
+          {
+            "media_type": "IMAGE",
+            "media_source": "neleos",
+            "image_type": "ALTERNATE",
+            "image_sizes": {
+              "original": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-4-1500.jpg",
+              "large": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-4-800.jpg",
+              "medium": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-4-400.jpg",
+              "small": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-4-100.jpg",
+              "thumbnail": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-4-50.jpg"
+            }
+          },
+          {
+            "media_type": "IMAGE",
+            "media_source": "neleos",
+            "image_type": "ALTERNATE",
+            "image_sizes": {
+              "original": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-5-1500.jpg",
+              "large": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-5-800.jpg",
+              "medium": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-5-400.jpg",
+              "small": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-5-100.jpg",
+              "thumbnail": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-5-50.jpg"
+            }
+          },
+          {
+            "media_type": "IMAGE",
+            "media_source": "neleos",
+            "image_type": "ALTERNATE",
+            "image_sizes": {
+              "original": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-6-1500.jpg",
+              "large": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-6-800.jpg",
+              "medium": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-6-400.jpg",
+              "small": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-6-100.jpg",
+              "thumbnail": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-6-50.jpg"
+            }
+          },
+          {
+            "media_type": "IMAGE",
+            "media_source": "neleos",
+            "image_type": "ALTERNATE",
+            "image_sizes": {
+              "original": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-7-1500.jpg",
+              "large": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-7-800.jpg",
+              "medium": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-7-400.jpg",
+              "small": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-7-100.jpg",
+              "thumbnail": "https://pictures.nelson.nl/images/productimages/1/12/123/12320310-63/12320310-63-7-50.jpg"
+            }
+          }
+        ],
+        "product_variants": [],
+        "product_collections": [],
+        "rollup_attribute_set": "SHOE_SIZE",
+        "rollup_attributes": ["shoe_size_eu"],
+        "child_products": [
+          {
+            "id": 362951,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "40" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "8719966195034" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "6+" }
+            ],
+            "state": "ORDERABLE",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "872025103782",
+            "catalogue_number": "12320310-63",
+            "stock": 2,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 9720429,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 159.99,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "159",
+                  "decimal_str": "99",
+                  "formatted": "\u20ac\u00a0159,99"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 132.22,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "132",
+                  "decimal_str": "22",
+                  "formatted": "\u20ac\u00a0132,22"
+                },
+                "regular_price": {
+                  "amount": 159.99,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "159",
+                  "decimal_str": "99",
+                  "formatted": "\u20ac\u00a0159,99"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 132.22,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "132",
+                  "decimal_str": "22",
+                  "formatted": "\u20ac\u00a0132,22"
+                }
+              }
+            }
+          },
+          {
+            "id": 362952,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "40,5" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "8719966195041" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "7" }
+            ],
+            "state": "ORDERABLE",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "872025103783",
+            "catalogue_number": "12320310-63",
+            "stock": 3,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 9720509,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 159.99,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "159",
+                  "decimal_str": "99",
+                  "formatted": "\u20ac\u00a0159,99"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 132.22,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "132",
+                  "decimal_str": "22",
+                  "formatted": "\u20ac\u00a0132,22"
+                },
+                "regular_price": {
+                  "amount": 159.99,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "159",
+                  "decimal_str": "99",
+                  "formatted": "\u20ac\u00a0159,99"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 132.22,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "132",
+                  "decimal_str": "22",
+                  "formatted": "\u20ac\u00a0132,22"
+                }
+              }
+            }
+          },
+          {
+            "id": 362953,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "41" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "8719966195058" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "7+" }
+            ],
+            "state": "ORDERABLE",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "872025103784",
+            "catalogue_number": "12320310-63",
+            "stock": 2,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 9720589,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 159.99,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "159",
+                  "decimal_str": "99",
+                  "formatted": "\u20ac\u00a0159,99"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 132.22,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "132",
+                  "decimal_str": "22",
+                  "formatted": "\u20ac\u00a0132,22"
+                },
+                "regular_price": {
+                  "amount": 159.99,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "159",
+                  "decimal_str": "99",
+                  "formatted": "\u20ac\u00a0159,99"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 132.22,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "132",
+                  "decimal_str": "22",
+                  "formatted": "\u20ac\u00a0132,22"
+                }
+              }
+            }
+          },
+          {
+            "id": 362954,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "42" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "8719966195065" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "8" }
+            ],
+            "state": "ORDERABLE",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "872025103785",
+            "catalogue_number": "12320310-63",
+            "stock": 3,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 9720669,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 159.99,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "159",
+                  "decimal_str": "99",
+                  "formatted": "\u20ac\u00a0159,99"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 132.22,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "132",
+                  "decimal_str": "22",
+                  "formatted": "\u20ac\u00a0132,22"
+                },
+                "regular_price": {
+                  "amount": 159.99,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "159",
+                  "decimal_str": "99",
+                  "formatted": "\u20ac\u00a0159,99"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 132.22,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "132",
+                  "decimal_str": "22",
+                  "formatted": "\u20ac\u00a0132,22"
+                }
+              }
+            }
+          },
+          {
+            "id": 362955,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "42,5" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "8719966195072" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "8+" }
+            ],
+            "state": "ORDERABLE",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "872025103786",
+            "catalogue_number": "12320310-63",
+            "stock": 4,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 9720749,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 159.99,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "159",
+                  "decimal_str": "99",
+                  "formatted": "\u20ac\u00a0159,99"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 132.22,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "132",
+                  "decimal_str": "22",
+                  "formatted": "\u20ac\u00a0132,22"
+                },
+                "regular_price": {
+                  "amount": 159.99,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "159",
+                  "decimal_str": "99",
+                  "formatted": "\u20ac\u00a0159,99"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 132.22,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "132",
+                  "decimal_str": "22",
+                  "formatted": "\u20ac\u00a0132,22"
+                }
+              }
+            }
+          },
+          {
+            "id": 362956,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "43" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "8719966195089" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "9" }
+            ],
+            "state": "ORDERABLE",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "872025103787",
+            "catalogue_number": "12320310-63",
+            "stock": 3,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 9720829,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 159.99,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "159",
+                  "decimal_str": "99",
+                  "formatted": "\u20ac\u00a0159,99"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 132.22,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "132",
+                  "decimal_str": "22",
+                  "formatted": "\u20ac\u00a0132,22"
+                },
+                "regular_price": {
+                  "amount": 159.99,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "159",
+                  "decimal_str": "99",
+                  "formatted": "\u20ac\u00a0159,99"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 132.22,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "132",
+                  "decimal_str": "22",
+                  "formatted": "\u20ac\u00a0132,22"
+                }
+              }
+            }
+          },
+          {
+            "id": 362957,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "43,5" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "8719966195096" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "9+" }
+            ],
+            "state": "ORDERABLE",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "872025103788",
+            "catalogue_number": "12320310-63",
+            "stock": 2,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 9720909,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 159.99,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "159",
+                  "decimal_str": "99",
+                  "formatted": "\u20ac\u00a0159,99"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 132.22,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "132",
+                  "decimal_str": "22",
+                  "formatted": "\u20ac\u00a0132,22"
+                },
+                "regular_price": {
+                  "amount": 159.99,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "159",
+                  "decimal_str": "99",
+                  "formatted": "\u20ac\u00a0159,99"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 132.22,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "132",
+                  "decimal_str": "22",
+                  "formatted": "\u20ac\u00a0132,22"
+                }
+              }
+            }
+          },
+          {
+            "id": 362958,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "44" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "8719966194976" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "10" }
+            ],
+            "state": "ORDERABLE",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "872025103789",
+            "catalogue_number": "12320310-63",
+            "stock": 5,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 9720989,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 159.99,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "159",
+                  "decimal_str": "99",
+                  "formatted": "\u20ac\u00a0159,99"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 132.22,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "132",
+                  "decimal_str": "22",
+                  "formatted": "\u20ac\u00a0132,22"
+                },
+                "regular_price": {
+                  "amount": 159.99,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "159",
+                  "decimal_str": "99",
+                  "formatted": "\u20ac\u00a0159,99"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 132.22,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "132",
+                  "decimal_str": "22",
+                  "formatted": "\u20ac\u00a0132,22"
+                }
+              }
+            }
+          },
+          {
+            "id": 362959,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "45" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "8719966194983" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "10+" }
+            ],
+            "state": "ORDERABLE",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "872025103790",
+            "catalogue_number": "12320310-63",
+            "stock": 3,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 9721069,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 159.99,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "159",
+                  "decimal_str": "99",
+                  "formatted": "\u20ac\u00a0159,99"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 132.22,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "132",
+                  "decimal_str": "22",
+                  "formatted": "\u20ac\u00a0132,22"
+                },
+                "regular_price": {
+                  "amount": 159.99,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "159",
+                  "decimal_str": "99",
+                  "formatted": "\u20ac\u00a0159,99"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 132.22,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "132",
+                  "decimal_str": "22",
+                  "formatted": "\u20ac\u00a0132,22"
+                }
+              }
+            }
+          },
+          {
+            "id": 362960,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "46" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "8719966194990" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "11" }
+            ],
+            "state": "ORDERABLE",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "872025103791",
+            "catalogue_number": "12320310-63",
+            "stock": 2,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 9721149,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 159.99,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "159",
+                  "decimal_str": "99",
+                  "formatted": "\u20ac\u00a0159,99"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 132.22,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "132",
+                  "decimal_str": "22",
+                  "formatted": "\u20ac\u00a0132,22"
+                },
+                "regular_price": {
+                  "amount": 159.99,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "159",
+                  "decimal_str": "99",
+                  "formatted": "\u20ac\u00a0159,99"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 132.22,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "132",
+                  "decimal_str": "22",
+                  "formatted": "\u20ac\u00a0132,22"
+                }
+              }
+            }
+          },
+          {
+            "id": 362961,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "46,5" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "8719966195003" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "11+" }
+            ],
+            "state": "ORDERABLE",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "872025103792",
+            "catalogue_number": "12320310-63",
+            "stock": 3,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 9721229,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 159.99,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "159",
+                  "decimal_str": "99",
+                  "formatted": "\u20ac\u00a0159,99"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 132.22,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "132",
+                  "decimal_str": "22",
+                  "formatted": "\u20ac\u00a0132,22"
+                },
+                "regular_price": {
+                  "amount": 159.99,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "159",
+                  "decimal_str": "99",
+                  "formatted": "\u20ac\u00a0159,99"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 132.22,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "132",
+                  "decimal_str": "22",
+                  "formatted": "\u20ac\u00a0132,22"
+                }
+              }
+            }
+          }
+        ],
+        "price": {
+          "type": "product_prices",
+          "id": 9721309,
+          "attributes": {
+            "channel_instance_id": 2,
+            "is_discounted": false,
+            "min_sale_price": {
+              "amount": 159.99,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "159",
+              "decimal_str": "99",
+              "formatted": "\u20ac\u00a0159,99"
+            },
+            "min_sale_price_excl_vat": {
+              "amount": 132.22,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "132",
+              "decimal_str": "22",
+              "formatted": "\u20ac\u00a0132,22"
+            },
+            "min_regular_price": {
+              "amount": 159.99,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "159",
+              "decimal_str": "99",
+              "formatted": "\u20ac\u00a0159,99"
+            },
+            "min_regular_price_excl_vat": {
+              "amount": 132.22,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "132",
+              "decimal_str": "22",
+              "formatted": "\u20ac\u00a0132,22"
+            },
+            "max_sale_price": {
+              "amount": 159.99,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "159",
+              "decimal_str": "99",
+              "formatted": "\u20ac\u00a0159,99"
+            },
+            "max_sale_price_excl_vat": {
+              "amount": 132.22,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "132",
+              "decimal_str": "22",
+              "formatted": "\u20ac\u00a0132,22"
+            },
+            "max_regular_price": {
+              "amount": 159.99,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "159",
+              "decimal_str": "99",
+              "formatted": "\u20ac\u00a0159,99"
+            },
+            "max_regular_price_excl_vat": {
+              "amount": 132.22,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "132",
+              "decimal_str": "22",
+              "formatted": "\u20ac\u00a0132,22"
+            },
+            "available_min_sale_price": {
+              "amount": 159.99,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "159",
+              "decimal_str": "99",
+              "formatted": "\u20ac\u00a0159,99"
+            },
+            "available_min_sale_price_excl_vat": {
+              "amount": 132.22,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "132",
+              "decimal_str": "22",
+              "formatted": "\u20ac\u00a0132,22"
+            },
+            "available_min_regular_price": {
+              "amount": 159.99,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "159",
+              "decimal_str": "99",
+              "formatted": "\u20ac\u00a0159,99"
+            },
+            "available_min_regular_price_excl_vat": {
+              "amount": 132.22,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "132",
+              "decimal_str": "22",
+              "formatted": "\u20ac\u00a0132,22"
+            },
+            "available_max_sale_price": {
+              "amount": 159.99,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "159",
+              "decimal_str": "99",
+              "formatted": "\u20ac\u00a0159,99"
+            },
+            "available_max_sale_price_excl_vat": {
+              "amount": 132.22,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "132",
+              "decimal_str": "22",
+              "formatted": "\u20ac\u00a0132,22"
+            },
+            "available_max_regular_price": {
+              "amount": 159.99,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "159",
+              "decimal_str": "99",
+              "formatted": "\u20ac\u00a0159,99"
+            },
+            "available_max_regular_price_excl_vat": {
+              "amount": 132.22,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "132",
+              "decimal_str": "22",
+              "formatted": "\u20ac\u00a0132,22"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "products",
+      "id": 332263,
+      "attributes": {
+        "name": "Bama Schoenspanners",
+        "slug": "bama-schoenspanners-onderhoud",
+        "state": "ORDERABLE",
+        "requires_shipping": true,
+        "product_sku": "nls-91106400-71",
+        "product_type": "ShoeAccessory",
+        "product_classification": "Onderhoud",
+        "catalogue_number": "91106400-71",
+        "description": "",
+        "structure": "PARENT",
+        "description_bullet_points": [
+          "Bama schoenspanners",
+          "Mooie beukenhouten schoenspanners van Bama zorgen ervoor dat jouw schoenen netjes in model blijven!",
+          "Verkrijgbaar in verschillende maten: 36/37 - 38/39 - 40/41 - 42/43 - 44/45 - 46/47.",
+          "De te bestellen maat is de grootste maat, heb je dus maat 36 nodig? Dan bestel je 37 en ontvang je combinatiemaat 36/37.",
+          "Let op! dit artikel mag niet geruild of geretourneerd worden."
+        ],
+        "brand": {
+          "type": "brands",
+          "id": 193,
+          "attributes": {
+            "name": "Bama",
+            "slug": "bama",
+            "logo": {
+              "type": "brand_logo",
+              "url": "https://neleos-assets.nelson.nl/media/brand_logo/8feff81ad2f786a6f6788250e4952a5c.png",
+              "variants": {
+                "thumbnail": "https://neleos-assets.nelson.nl/media/brand_logo/8feff81ad2f786a6f6788250e4952a5c.thumbnail.width-100-1.png",
+                "small_fit": "https://neleos-assets.nelson.nl/media/brand_logo/8feff81ad2f786a6f6788250e4952a5c.small_fit.fit-200-100-255-255-255-0-enlarge-0.png",
+                "medium_fit": "https://neleos-assets.nelson.nl/media/brand_logo/8feff81ad2f786a6f6788250e4952a5c.medium_fit.fit-600-300-255-255-255-0-enlarge-0.png"
+              }
+            },
+            "description": null
+          }
+        },
+        "product_attributes": [
+          { "name": "genders", "value": ["MALE", "FEMALE"] },
+          { "name": "age_groups", "value": ["ADULT"] },
+          { "name": "target_groups", "value": ["MALE", "FEMALE"] },
+          { "name": "product_model_name", "value": "Schoenspanners" },
+          { "name": "product_number", "value": "91106400-71" }
+        ],
+        "categories": [],
+        "main_image": {
+          "media_type": "IMAGE",
+          "media_source": "neleos",
+          "image_type": "MAIN",
+          "image_sizes": {
+            "original": "https://pictures.nelson.nl/images/productimages/9/91/911/91106400-71/91106400-71-1-1500.jpg",
+            "large": "https://pictures.nelson.nl/images/productimages/9/91/911/91106400-71/91106400-71-1-800.jpg",
+            "medium": "https://pictures.nelson.nl/images/productimages/9/91/911/91106400-71/91106400-71-1-400.jpg",
+            "small": "https://pictures.nelson.nl/images/productimages/9/91/911/91106400-71/91106400-71-1-100.jpg",
+            "thumbnail": "https://pictures.nelson.nl/images/productimages/9/91/911/91106400-71/91106400-71-1-50.jpg"
+          }
+        },
+        "media": [
+          {
+            "media_type": "IMAGE",
+            "media_source": "neleos",
+            "image_type": "MAIN",
+            "image_sizes": {
+              "original": "https://pictures.nelson.nl/images/productimages/9/91/911/91106400-71/91106400-71-1-1500.jpg",
+              "large": "https://pictures.nelson.nl/images/productimages/9/91/911/91106400-71/91106400-71-1-800.jpg",
+              "medium": "https://pictures.nelson.nl/images/productimages/9/91/911/91106400-71/91106400-71-1-400.jpg",
+              "small": "https://pictures.nelson.nl/images/productimages/9/91/911/91106400-71/91106400-71-1-100.jpg",
+              "thumbnail": "https://pictures.nelson.nl/images/productimages/9/91/911/91106400-71/91106400-71-1-50.jpg"
+            }
+          },
+          {
+            "media_type": "IMAGE",
+            "media_source": "neleos",
+            "image_type": "ALTERNATE",
+            "image_sizes": {
+              "original": "https://pictures.nelson.nl/images/productimages/9/91/911/91106400-71/91106400-71-2-1500.jpg",
+              "large": "https://pictures.nelson.nl/images/productimages/9/91/911/91106400-71/91106400-71-2-800.jpg",
+              "medium": "https://pictures.nelson.nl/images/productimages/9/91/911/91106400-71/91106400-71-2-400.jpg",
+              "small": "https://pictures.nelson.nl/images/productimages/9/91/911/91106400-71/91106400-71-2-100.jpg",
+              "thumbnail": "https://pictures.nelson.nl/images/productimages/9/91/911/91106400-71/91106400-71-2-50.jpg"
+            }
+          }
+        ],
+        "product_variants": [],
+        "product_collections": [],
+        "rollup_attribute_set": "SHOE_SIZE",
+        "rollup_attributes": ["shoe_size_eu"],
+        "child_products": [
+          {
+            "id": 332268,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "37" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "4008402065784" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "36/37" }
+            ],
+            "state": "ORDERABLE",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "200000205076",
+            "catalogue_number": "91106400-71",
+            "stock": 4,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 387122,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 8.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "8",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a08,95"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 7.4,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "7",
+                  "decimal_str": "40",
+                  "formatted": "\u20ac\u00a07,40"
+                },
+                "regular_price": {
+                  "amount": 8.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "8",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a08,95"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 7.4,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "7",
+                  "decimal_str": "40",
+                  "formatted": "\u20ac\u00a07,40"
+                }
+              }
+            }
+          },
+          {
+            "id": 332269,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "39" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "4008402065791" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "38/39" }
+            ],
+            "state": "ORDERABLE",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "200000205077",
+            "catalogue_number": "91106400-71",
+            "stock": 4,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 387123,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 8.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "8",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a08,95"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 7.4,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "7",
+                  "decimal_str": "40",
+                  "formatted": "\u20ac\u00a07,40"
+                },
+                "regular_price": {
+                  "amount": 8.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "8",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a08,95"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 7.4,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "7",
+                  "decimal_str": "40",
+                  "formatted": "\u20ac\u00a07,40"
+                }
+              }
+            }
+          },
+          {
+            "id": 332264,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "41" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "4008402065807" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "40/41" }
+            ],
+            "state": "ORDERABLE",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "200000147984",
+            "catalogue_number": "91106400-71",
+            "stock": 5,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 387120,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 8.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "8",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a08,95"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 7.4,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "7",
+                  "decimal_str": "40",
+                  "formatted": "\u20ac\u00a07,40"
+                },
+                "regular_price": {
+                  "amount": 8.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "8",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a08,95"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 7.4,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "7",
+                  "decimal_str": "40",
+                  "formatted": "\u20ac\u00a07,40"
+                }
+              }
+            }
+          },
+          {
+            "id": 332265,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "43" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "4008402065814" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "42/43" }
+            ],
+            "state": "OUT_OF_STOCK",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "200000147985",
+            "catalogue_number": "91106400-71",
+            "stock": 0,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 387119,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 8.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "8",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a08,95"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 7.4,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "7",
+                  "decimal_str": "40",
+                  "formatted": "\u20ac\u00a07,40"
+                },
+                "regular_price": {
+                  "amount": 8.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "8",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a08,95"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 7.4,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "7",
+                  "decimal_str": "40",
+                  "formatted": "\u20ac\u00a07,40"
+                }
+              }
+            }
+          },
+          {
+            "id": 332266,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "45" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "4008402065081" },
+                  { "type": "EAN-13", "value": "4008402065821" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "44/45" }
+            ],
+            "state": "ORDERABLE",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "200000147986",
+            "catalogue_number": "91106400-71",
+            "stock": 1,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 387118,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 8.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "8",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a08,95"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 7.4,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "7",
+                  "decimal_str": "40",
+                  "formatted": "\u20ac\u00a07,40"
+                },
+                "regular_price": {
+                  "amount": 8.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "8",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a08,95"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 7.4,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "7",
+                  "decimal_str": "40",
+                  "formatted": "\u20ac\u00a07,40"
+                }
+              }
+            }
+          },
+          {
+            "id": 332267,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "47" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "4008402065098" },
+                  { "type": "EAN-13", "value": "4008402065838" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "46/47" }
+            ],
+            "state": "ORDERABLE",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "200000147987",
+            "catalogue_number": "91106400-71",
+            "stock": 11,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 387121,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 8.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "8",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a08,95"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 7.4,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "7",
+                  "decimal_str": "40",
+                  "formatted": "\u20ac\u00a07,40"
+                },
+                "regular_price": {
+                  "amount": 8.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "8",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a08,95"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 7.4,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "7",
+                  "decimal_str": "40",
+                  "formatted": "\u20ac\u00a07,40"
+                }
+              }
+            }
+          }
+        ],
+        "price": {
+          "type": "product_prices",
+          "id": 387124,
+          "attributes": {
+            "channel_instance_id": 2,
+            "is_discounted": false,
+            "min_sale_price": {
+              "amount": 8.95,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "8",
+              "decimal_str": "95",
+              "formatted": "\u20ac\u00a08,95"
+            },
+            "min_sale_price_excl_vat": {
+              "amount": 7.4,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "7",
+              "decimal_str": "40",
+              "formatted": "\u20ac\u00a07,40"
+            },
+            "min_regular_price": {
+              "amount": 8.95,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "8",
+              "decimal_str": "95",
+              "formatted": "\u20ac\u00a08,95"
+            },
+            "min_regular_price_excl_vat": {
+              "amount": 7.4,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "7",
+              "decimal_str": "40",
+              "formatted": "\u20ac\u00a07,40"
+            },
+            "max_sale_price": {
+              "amount": 8.95,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "8",
+              "decimal_str": "95",
+              "formatted": "\u20ac\u00a08,95"
+            },
+            "max_sale_price_excl_vat": {
+              "amount": 7.4,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "7",
+              "decimal_str": "40",
+              "formatted": "\u20ac\u00a07,40"
+            },
+            "max_regular_price": {
+              "amount": 8.95,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "8",
+              "decimal_str": "95",
+              "formatted": "\u20ac\u00a08,95"
+            },
+            "max_regular_price_excl_vat": {
+              "amount": 7.4,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "7",
+              "decimal_str": "40",
+              "formatted": "\u20ac\u00a07,40"
+            },
+            "available_min_sale_price": {
+              "amount": 8.95,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "8",
+              "decimal_str": "95",
+              "formatted": "\u20ac\u00a08,95"
+            },
+            "available_min_sale_price_excl_vat": {
+              "amount": 7.4,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "7",
+              "decimal_str": "40",
+              "formatted": "\u20ac\u00a07,40"
+            },
+            "available_min_regular_price": {
+              "amount": 8.95,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "8",
+              "decimal_str": "95",
+              "formatted": "\u20ac\u00a08,95"
+            },
+            "available_min_regular_price_excl_vat": {
+              "amount": 7.4,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "7",
+              "decimal_str": "40",
+              "formatted": "\u20ac\u00a07,40"
+            },
+            "available_max_sale_price": {
+              "amount": 8.95,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "8",
+              "decimal_str": "95",
+              "formatted": "\u20ac\u00a08,95"
+            },
+            "available_max_sale_price_excl_vat": {
+              "amount": 7.4,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "7",
+              "decimal_str": "40",
+              "formatted": "\u20ac\u00a07,40"
+            },
+            "available_max_regular_price": {
+              "amount": 8.95,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "8",
+              "decimal_str": "95",
+              "formatted": "\u20ac\u00a08,95"
+            },
+            "available_max_regular_price_excl_vat": {
+              "amount": 7.4,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "7",
+              "decimal_str": "40",
+              "formatted": "\u20ac\u00a07,40"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "products",
+      "id": 391337,
+      "attributes": {
+        "name": "Nelson 3-pack",
+        "slug": "nelson-3-pack-sokken",
+        "state": "ORDERABLE",
+        "requires_shipping": true,
+        "product_sku": "nls-83301580-10",
+        "product_type": "ShoeAccessory",
+        "product_classification": "Sokken",
+        "catalogue_number": "83301580-10",
+        "description": "",
+        "structure": "PARENT",
+        "description_bullet_points": [
+          "Nelson heren sokken",
+          "Hoge sokken.",
+          "75% katoen, 20% polyamide en 5% elestaan."
+        ],
+        "brand": {
+          "type": "brands",
+          "id": 15,
+          "attributes": {
+            "name": "Nelson",
+            "slug": "nelson",
+            "logo": {
+              "type": "brand_logo",
+              "url": "https://neleos-assets.nelson.nl/media/brand_logo/cc82d16fe4f5a57a4faad80b75963e2c.png",
+              "variants": {
+                "thumbnail": "https://neleos-assets.nelson.nl/media/brand_logo/cc82d16fe4f5a57a4faad80b75963e2c.thumbnail.width-100-1.png",
+                "small_fit": "https://neleos-assets.nelson.nl/media/brand_logo/cc82d16fe4f5a57a4faad80b75963e2c.small_fit.fit-200-100-255-255-255-0-enlarge-0.png",
+                "medium_fit": "https://neleos-assets.nelson.nl/media/brand_logo/cc82d16fe4f5a57a4faad80b75963e2c.medium_fit.fit-600-300-255-255-255-0-enlarge-0.png"
+              }
+            },
+            "description": "Naast de vele A-merken die je bij Nelson kunt vinden, heeft Nelson ook een mooi eigen label met hippe schoenen volgens de laatste trends. In deze collectie is goed terug te zien waar Nelson voor staat: modieuze en kwalitatief hoogwaardige schoenen. En natuurlijk vind je bij Nelson altijd een scherpe prijs/kwaliteit verhouding."
+          }
+        },
+        "product_attributes": [
+          { "name": "genders", "value": ["MALE"] },
+          { "name": "age_groups", "value": ["ADULT"] },
+          { "name": "target_groups", "value": ["MALE"] },
+          { "name": "product_model_name", "value": "3-pack" },
+          { "name": "product_number", "value": "83301580-10" }
+        ],
+        "categories": [
+          {
+            "id": 226,
+            "name": "Sokken",
+            "slug": "sokken",
+            "slug_path": "accessoires/sokken",
+            "name_path": "Accessoires/Sokken"
+          },
+          {
+            "id": 271,
+            "name": "Sokken",
+            "slug": "sokken",
+            "slug_path": "heren/accessoires/sokken",
+            "name_path": "Heren/Accessoires/Sokken"
+          }
+        ],
+        "main_image": {
+          "media_type": "IMAGE",
+          "media_source": "neleos",
+          "image_type": "MAIN",
+          "image_sizes": {
+            "original": "https://pictures.nelson.nl/images/productimages/8/83/833/83301580-10/83301580-10-1-1500.jpg",
+            "large": "https://pictures.nelson.nl/images/productimages/8/83/833/83301580-10/83301580-10-1-800.jpg",
+            "medium": "https://pictures.nelson.nl/images/productimages/8/83/833/83301580-10/83301580-10-1-400.jpg",
+            "small": "https://pictures.nelson.nl/images/productimages/8/83/833/83301580-10/83301580-10-1-100.jpg",
+            "thumbnail": "https://pictures.nelson.nl/images/productimages/8/83/833/83301580-10/83301580-10-1-50.jpg"
+          }
+        },
+        "media": [
+          {
+            "media_type": "IMAGE",
+            "media_source": "neleos",
+            "image_type": "MAIN",
+            "image_sizes": {
+              "original": "https://pictures.nelson.nl/images/productimages/8/83/833/83301580-10/83301580-10-1-1500.jpg",
+              "large": "https://pictures.nelson.nl/images/productimages/8/83/833/83301580-10/83301580-10-1-800.jpg",
+              "medium": "https://pictures.nelson.nl/images/productimages/8/83/833/83301580-10/83301580-10-1-400.jpg",
+              "small": "https://pictures.nelson.nl/images/productimages/8/83/833/83301580-10/83301580-10-1-100.jpg",
+              "thumbnail": "https://pictures.nelson.nl/images/productimages/8/83/833/83301580-10/83301580-10-1-50.jpg"
+            }
+          }
+        ],
+        "product_variants": [
+          {
+            "type": "products",
+            "id": 391339,
+            "attributes": {
+              "name": "Nelson 3-pack",
+              "slug": "nelson-3-pack-sokken",
+              "state": "ORDERABLE",
+              "catalogue_number": "83301580-12",
+              "product_sku": "nls-83301580-12",
+              "product_type": "ShoeAccessory",
+              "product_classification": "Sokken",
+              "structure": "PARENT",
+              "main_image": {
+                "media_type": "IMAGE",
+                "media_source": "neleos",
+                "image_type": "MAIN",
+                "image_sizes": {
+                  "original": "https://pictures.nelson.nl/images/productimages/8/83/833/83301580-12/83301580-12-1-1500.jpg",
+                  "large": "https://pictures.nelson.nl/images/productimages/8/83/833/83301580-12/83301580-12-1-800.jpg",
+                  "medium": "https://pictures.nelson.nl/images/productimages/8/83/833/83301580-12/83301580-12-1-400.jpg",
+                  "small": "https://pictures.nelson.nl/images/productimages/8/83/833/83301580-12/83301580-12-1-100.jpg",
+                  "thumbnail": "https://pictures.nelson.nl/images/productimages/8/83/833/83301580-12/83301580-12-1-50.jpg"
+                }
+              },
+              "rollup_attribute_set": "SHOE_SIZE",
+              "rollup_attributes": [
+                { "name": "shoe_size_eu", "value": "Maat" }
+              ]
+            }
+          },
+          {
+            "type": "products",
+            "id": 391341,
+            "attributes": {
+              "name": "Nelson 3-pack",
+              "slug": "nelson-3-pack-sokken",
+              "state": "ORDERABLE",
+              "catalogue_number": "83301580-50",
+              "product_sku": "nls-83301580-50",
+              "product_type": "ShoeAccessory",
+              "product_classification": "Sokken",
+              "structure": "PARENT",
+              "main_image": {
+                "media_type": "IMAGE",
+                "media_source": "neleos",
+                "image_type": "MAIN",
+                "image_sizes": {
+                  "original": "https://pictures.nelson.nl/images/productimages/8/83/833/83301580-50/83301580-50-1-1500.jpg",
+                  "large": "https://pictures.nelson.nl/images/productimages/8/83/833/83301580-50/83301580-50-1-800.jpg",
+                  "medium": "https://pictures.nelson.nl/images/productimages/8/83/833/83301580-50/83301580-50-1-400.jpg",
+                  "small": "https://pictures.nelson.nl/images/productimages/8/83/833/83301580-50/83301580-50-1-100.jpg",
+                  "thumbnail": "https://pictures.nelson.nl/images/productimages/8/83/833/83301580-50/83301580-50-1-50.jpg"
+                }
+              },
+              "rollup_attribute_set": "SHOE_SIZE",
+              "rollup_attributes": [
+                { "name": "shoe_size_eu", "value": "Maat" }
+              ]
+            }
+          }
+        ],
+        "product_collections": [],
+        "rollup_attribute_set": "SHOE_SIZE",
+        "rollup_attributes": ["shoe_size_eu"],
+        "child_products": [
+          {
+            "id": 391338,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "40-46" },
+              { "name": "shoe_size_manufacturer", "value": "40-46" }
+            ],
+            "state": "ORDERABLE",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "872025136254",
+            "catalogue_number": "83301580-10",
+            "stock": 2633,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 22525325,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 9.99,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "9",
+                  "decimal_str": "99",
+                  "formatted": "\u20ac\u00a09,99"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 8.26,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "8",
+                  "decimal_str": "26",
+                  "formatted": "\u20ac\u00a08,26"
+                },
+                "regular_price": {
+                  "amount": 9.99,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "9",
+                  "decimal_str": "99",
+                  "formatted": "\u20ac\u00a09,99"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 8.26,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "8",
+                  "decimal_str": "26",
+                  "formatted": "\u20ac\u00a08,26"
+                }
+              }
+            }
+          }
+        ],
+        "price": {
+          "type": "product_prices",
+          "id": 22525477,
+          "attributes": {
+            "channel_instance_id": 2,
+            "is_discounted": false,
+            "min_sale_price": {
+              "amount": 9.99,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "9",
+              "decimal_str": "99",
+              "formatted": "\u20ac\u00a09,99"
+            },
+            "min_sale_price_excl_vat": {
+              "amount": 8.26,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "8",
+              "decimal_str": "26",
+              "formatted": "\u20ac\u00a08,26"
+            },
+            "min_regular_price": {
+              "amount": 9.99,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "9",
+              "decimal_str": "99",
+              "formatted": "\u20ac\u00a09,99"
+            },
+            "min_regular_price_excl_vat": {
+              "amount": 8.26,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "8",
+              "decimal_str": "26",
+              "formatted": "\u20ac\u00a08,26"
+            },
+            "max_sale_price": {
+              "amount": 9.99,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "9",
+              "decimal_str": "99",
+              "formatted": "\u20ac\u00a09,99"
+            },
+            "max_sale_price_excl_vat": {
+              "amount": 8.26,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "8",
+              "decimal_str": "26",
+              "formatted": "\u20ac\u00a08,26"
+            },
+            "max_regular_price": {
+              "amount": 9.99,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "9",
+              "decimal_str": "99",
+              "formatted": "\u20ac\u00a09,99"
+            },
+            "max_regular_price_excl_vat": {
+              "amount": 8.26,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "8",
+              "decimal_str": "26",
+              "formatted": "\u20ac\u00a08,26"
+            },
+            "available_min_sale_price": {
+              "amount": 9.99,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "9",
+              "decimal_str": "99",
+              "formatted": "\u20ac\u00a09,99"
+            },
+            "available_min_sale_price_excl_vat": {
+              "amount": 8.26,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "8",
+              "decimal_str": "26",
+              "formatted": "\u20ac\u00a08,26"
+            },
+            "available_min_regular_price": {
+              "amount": 9.99,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "9",
+              "decimal_str": "99",
+              "formatted": "\u20ac\u00a09,99"
+            },
+            "available_min_regular_price_excl_vat": {
+              "amount": 8.26,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "8",
+              "decimal_str": "26",
+              "formatted": "\u20ac\u00a08,26"
+            },
+            "available_max_sale_price": {
+              "amount": 9.99,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "9",
+              "decimal_str": "99",
+              "formatted": "\u20ac\u00a09,99"
+            },
+            "available_max_sale_price_excl_vat": {
+              "amount": 8.26,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "8",
+              "decimal_str": "26",
+              "formatted": "\u20ac\u00a08,26"
+            },
+            "available_max_regular_price": {
+              "amount": 9.99,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "9",
+              "decimal_str": "99",
+              "formatted": "\u20ac\u00a09,99"
+            },
+            "available_max_regular_price_excl_vat": {
+              "amount": 8.26,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "8",
+              "decimal_str": "26",
+              "formatted": "\u20ac\u00a08,26"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "products",
+      "id": 69211,
+      "attributes": {
+        "name": "Bama Fresh badstof inlegzool",
+        "slug": "bama-fresh-badstof-inlegzool-inlegzolen",
+        "state": "ORDERABLE",
+        "requires_shipping": true,
+        "product_sku": "nls-93903300-99",
+        "product_type": "ShoeAccessory",
+        "product_classification": "Inlegzolen",
+        "catalogue_number": "93903300-99",
+        "description": "",
+        "structure": "PARENT",
+        "description_bullet_points": [
+          "Bama fresh badstof inlegzool",
+          "Draag jij liever geen sokken? Met deze zolen heb je optimaal comfort voor blote voeten.",
+          "De katoenen badstof bovenlaag is voorzien van minuscule zilver-ionen, deze doden de bacterieen en zorgt de hele dag voor frisse voeten.",
+          "De zachte laag latexschuim zorgt voor een dempende werking",
+          "Verkrijgbaar in de maten 34 t/m 48.",
+          "Let op! dit artikel mag niet worden geruild/geretourneerd."
+        ],
+        "brand": {
+          "type": "brands",
+          "id": 193,
+          "attributes": {
+            "name": "Bama",
+            "slug": "bama",
+            "logo": {
+              "type": "brand_logo",
+              "url": "https://neleos-assets.nelson.nl/media/brand_logo/8feff81ad2f786a6f6788250e4952a5c.png",
+              "variants": {
+                "thumbnail": "https://neleos-assets.nelson.nl/media/brand_logo/8feff81ad2f786a6f6788250e4952a5c.thumbnail.width-100-1.png",
+                "small_fit": "https://neleos-assets.nelson.nl/media/brand_logo/8feff81ad2f786a6f6788250e4952a5c.small_fit.fit-200-100-255-255-255-0-enlarge-0.png",
+                "medium_fit": "https://neleos-assets.nelson.nl/media/brand_logo/8feff81ad2f786a6f6788250e4952a5c.medium_fit.fit-600-300-255-255-255-0-enlarge-0.png"
+              }
+            },
+            "description": null
+          }
+        },
+        "product_attributes": [
+          { "name": "genders", "value": ["MALE", "FEMALE"] },
+          { "name": "age_groups", "value": ["ADULT"] },
+          { "name": "target_groups", "value": ["MALE", "FEMALE"] },
+          {
+            "name": "product_model_name",
+            "value": "Fresh badstof inlegzool"
+          },
+          { "name": "product_number", "value": "93903300-99" }
+        ],
+        "categories": [],
+        "main_image": {
+          "media_type": "IMAGE",
+          "media_source": "neleos",
+          "image_type": "MAIN",
+          "image_sizes": {
+            "original": "https://pictures.nelson.nl/images/productimages/9/93/939/93903300-99/93903300-99-1-1500.jpg",
+            "large": "https://pictures.nelson.nl/images/productimages/9/93/939/93903300-99/93903300-99-1-800.jpg",
+            "medium": "https://pictures.nelson.nl/images/productimages/9/93/939/93903300-99/93903300-99-1-400.jpg",
+            "small": "https://pictures.nelson.nl/images/productimages/9/93/939/93903300-99/93903300-99-1-100.jpg",
+            "thumbnail": "https://pictures.nelson.nl/images/productimages/9/93/939/93903300-99/93903300-99-1-50.jpg"
+          }
+        },
+        "media": [
+          {
+            "media_type": "IMAGE",
+            "media_source": "neleos",
+            "image_type": "MAIN",
+            "image_sizes": {
+              "original": "https://pictures.nelson.nl/images/productimages/9/93/939/93903300-99/93903300-99-1-1500.jpg",
+              "large": "https://pictures.nelson.nl/images/productimages/9/93/939/93903300-99/93903300-99-1-800.jpg",
+              "medium": "https://pictures.nelson.nl/images/productimages/9/93/939/93903300-99/93903300-99-1-400.jpg",
+              "small": "https://pictures.nelson.nl/images/productimages/9/93/939/93903300-99/93903300-99-1-100.jpg",
+              "thumbnail": "https://pictures.nelson.nl/images/productimages/9/93/939/93903300-99/93903300-99-1-50.jpg"
+            }
+          },
+          {
+            "media_type": "IMAGE",
+            "media_source": "neleos",
+            "image_type": "ALTERNATE",
+            "image_sizes": {
+              "original": "https://pictures.nelson.nl/images/productimages/9/93/939/93903300-99/93903300-99-2-1500.jpg",
+              "large": "https://pictures.nelson.nl/images/productimages/9/93/939/93903300-99/93903300-99-2-800.jpg",
+              "medium": "https://pictures.nelson.nl/images/productimages/9/93/939/93903300-99/93903300-99-2-400.jpg",
+              "small": "https://pictures.nelson.nl/images/productimages/9/93/939/93903300-99/93903300-99-2-100.jpg",
+              "thumbnail": "https://pictures.nelson.nl/images/productimages/9/93/939/93903300-99/93903300-99-2-50.jpg"
+            }
+          }
+        ],
+        "product_variants": [],
+        "product_collections": [],
+        "rollup_attribute_set": "SHOE_SIZE",
+        "rollup_attributes": ["shoe_size_eu"],
+        "child_products": [
+          {
+            "id": 69212,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "34" },
+              { "name": "shoe_size_manufacturer", "value": "34" }
+            ],
+            "state": "OUT_OF_STOCK",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "200000295233",
+            "catalogue_number": "93903300-99",
+            "stock": 0,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 376828,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                },
+                "regular_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                }
+              }
+            }
+          },
+          {
+            "id": 69213,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "35" },
+              { "name": "shoe_size_manufacturer", "value": "35" }
+            ],
+            "state": "OUT_OF_STOCK",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "200000147920",
+            "catalogue_number": "93903300-99",
+            "stock": 0,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 376840,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                },
+                "regular_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                }
+              }
+            }
+          },
+          {
+            "id": 69214,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "36" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "4008402363408" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "36" }
+            ],
+            "state": "OUT_OF_STOCK",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "200000147921",
+            "catalogue_number": "93903300-99",
+            "stock": 0,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 376841,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                },
+                "regular_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                }
+              }
+            }
+          },
+          {
+            "id": 69215,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "37" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "4008402363415" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "37" }
+            ],
+            "state": "ORDERABLE",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "200000147922",
+            "catalogue_number": "93903300-99",
+            "stock": 8,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 376834,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                },
+                "regular_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                }
+              }
+            }
+          },
+          {
+            "id": 69216,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "38" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "4008402363422" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "38" }
+            ],
+            "state": "ORDERABLE",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "200000147923",
+            "catalogue_number": "93903300-99",
+            "stock": 15,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 376839,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                },
+                "regular_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                }
+              }
+            }
+          },
+          {
+            "id": 69217,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "39" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "4008402363439" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "39" }
+            ],
+            "state": "OUT_OF_STOCK",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "200000147925",
+            "catalogue_number": "93903300-99",
+            "stock": 0,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 376829,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                },
+                "regular_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                }
+              }
+            }
+          },
+          {
+            "id": 69218,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "40" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "4008402363446" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "40" }
+            ],
+            "state": "ORDERABLE",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "200000147924",
+            "catalogue_number": "93903300-99",
+            "stock": 4,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 376833,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                },
+                "regular_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                }
+              }
+            }
+          },
+          {
+            "id": 69219,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "41" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "4008402363453" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "41" }
+            ],
+            "state": "ORDERABLE",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "200000147926",
+            "catalogue_number": "93903300-99",
+            "stock": 4,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 376832,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                },
+                "regular_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                }
+              }
+            }
+          },
+          {
+            "id": 69220,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "42" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "4008402363460" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "42" }
+            ],
+            "state": "ORDERABLE",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "200000147927",
+            "catalogue_number": "93903300-99",
+            "stock": 11,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 376836,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                },
+                "regular_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                }
+              }
+            }
+          },
+          {
+            "id": 69221,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "43" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "4008402363477" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "43" }
+            ],
+            "state": "ORDERABLE",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "200000147928",
+            "catalogue_number": "93903300-99",
+            "stock": 10,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 376838,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                },
+                "regular_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                }
+              }
+            }
+          },
+          {
+            "id": 69222,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "44" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "4008402363484" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "44" }
+            ],
+            "state": "ORDERABLE",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "200000147929",
+            "catalogue_number": "93903300-99",
+            "stock": 15,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 376831,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                },
+                "regular_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                }
+              }
+            }
+          },
+          {
+            "id": 69223,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "45" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "4008402363491" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "45" }
+            ],
+            "state": "ORDERABLE",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "200000147930",
+            "catalogue_number": "93903300-99",
+            "stock": 14,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 376842,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                },
+                "regular_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                }
+              }
+            }
+          },
+          {
+            "id": 69224,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "46" },
+              {
+                "name": "manufacturer_gtins",
+                "value": [
+                  { "type": "EAN-13", "value": "4008402363507" }
+                ]
+              },
+              { "name": "shoe_size_manufacturer", "value": "46" }
+            ],
+            "state": "ORDERABLE",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "200000147931",
+            "catalogue_number": "93903300-99",
+            "stock": 15,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 376830,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                },
+                "regular_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                }
+              }
+            }
+          },
+          {
+            "id": 69225,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "47" },
+              { "name": "shoe_size_manufacturer", "value": "47" }
+            ],
+            "state": "OUT_OF_STOCK",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "200000147932",
+            "catalogue_number": "93903300-99",
+            "stock": 0,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 376837,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                },
+                "regular_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                }
+              }
+            }
+          },
+          {
+            "id": 69226,
+            "attributes": [
+              { "name": "shoe_size_eu", "value": "48" },
+              { "name": "shoe_size_manufacturer", "value": "48" }
+            ],
+            "state": "OUT_OF_STOCK",
+            "estimated_delivery_date": {
+              "earliest_date": "2021-11-06",
+              "latest_date": "2021-11-06",
+              "cutoff_datetime": "2021-11-05T22:00:00+00:00"
+            },
+            "product_sku": "871979626272",
+            "catalogue_number": "93903300-99",
+            "stock": 0,
+            "delivery_promise": "BEFORE_21_NEXT_WORKING_DAY",
+            "price": {
+              "type": "product_prices",
+              "id": 376835,
+              "attributes": {
+                "channel_instance_id": 2,
+                "vat_percentage": 21.0,
+                "is_discounted": false,
+                "sale_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "sale_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                },
+                "regular_price": {
+                  "amount": 5.95,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "5",
+                  "decimal_str": "95",
+                  "formatted": "\u20ac\u00a05,95"
+                },
+                "regular_price_excl_vat": {
+                  "amount": 4.92,
+                  "currency": "EUR",
+                  "currency_symbol": "\u20ac",
+                  "currency_symbol_html": "&#8364;",
+                  "decimal_mark": ",",
+                  "pre_decimal_str": "4",
+                  "decimal_str": "92",
+                  "formatted": "\u20ac\u00a04,92"
+                }
+              }
+            }
+          }
+        ],
+        "price": {
+          "type": "product_prices",
+          "id": 376843,
+          "attributes": {
+            "channel_instance_id": 2,
+            "is_discounted": false,
+            "min_sale_price": {
+              "amount": 5.95,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "5",
+              "decimal_str": "95",
+              "formatted": "\u20ac\u00a05,95"
+            },
+            "min_sale_price_excl_vat": {
+              "amount": 4.92,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "4",
+              "decimal_str": "92",
+              "formatted": "\u20ac\u00a04,92"
+            },
+            "min_regular_price": {
+              "amount": 5.95,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "5",
+              "decimal_str": "95",
+              "formatted": "\u20ac\u00a05,95"
+            },
+            "min_regular_price_excl_vat": {
+              "amount": 4.92,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "4",
+              "decimal_str": "92",
+              "formatted": "\u20ac\u00a04,92"
+            },
+            "max_sale_price": {
+              "amount": 5.95,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "5",
+              "decimal_str": "95",
+              "formatted": "\u20ac\u00a05,95"
+            },
+            "max_sale_price_excl_vat": {
+              "amount": 4.92,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "4",
+              "decimal_str": "92",
+              "formatted": "\u20ac\u00a04,92"
+            },
+            "max_regular_price": {
+              "amount": 5.95,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "5",
+              "decimal_str": "95",
+              "formatted": "\u20ac\u00a05,95"
+            },
+            "max_regular_price_excl_vat": {
+              "amount": 4.92,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "4",
+              "decimal_str": "92",
+              "formatted": "\u20ac\u00a04,92"
+            },
+            "available_min_sale_price": {
+              "amount": 5.95,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "5",
+              "decimal_str": "95",
+              "formatted": "\u20ac\u00a05,95"
+            },
+            "available_min_sale_price_excl_vat": {
+              "amount": 4.92,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "4",
+              "decimal_str": "92",
+              "formatted": "\u20ac\u00a04,92"
+            },
+            "available_min_regular_price": {
+              "amount": 5.95,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "5",
+              "decimal_str": "95",
+              "formatted": "\u20ac\u00a05,95"
+            },
+            "available_min_regular_price_excl_vat": {
+              "amount": 4.92,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "4",
+              "decimal_str": "92",
+              "formatted": "\u20ac\u00a04,92"
+            },
+            "available_max_sale_price": {
+              "amount": 5.95,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "5",
+              "decimal_str": "95",
+              "formatted": "\u20ac\u00a05,95"
+            },
+            "available_max_sale_price_excl_vat": {
+              "amount": 4.92,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "4",
+              "decimal_str": "92",
+              "formatted": "\u20ac\u00a04,92"
+            },
+            "available_max_regular_price": {
+              "amount": 5.95,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "5",
+              "decimal_str": "95",
+              "formatted": "\u20ac\u00a05,95"
+            },
+            "available_max_regular_price_excl_vat": {
+              "amount": 4.92,
+              "currency": "EUR",
+              "currency_symbol": "\u20ac",
+              "currency_symbol_html": "&#8364;",
+              "decimal_mark": ",",
+              "pre_decimal_str": "4",
+              "decimal_str": "92",
+              "formatted": "\u20ac\u00a04,92"
+            }
+          }
+        }
+      }
+    }
+  }
+]

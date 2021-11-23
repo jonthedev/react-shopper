@@ -12,8 +12,6 @@ export default function ProductList() {
 
   if (isLoading) return <LoadingSpinner />;
 
-  console.log(products);
-
   return products.map(product => {
     return (
       <ProductItem key={product.id} product={product}></ProductItem>

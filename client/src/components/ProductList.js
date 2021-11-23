@@ -22,8 +22,8 @@ export default function ProductList() {
 }
 
 function ProductItem({ product }) {
-  const { id, name, category, image, description, price } = product;
-
+  const { id, name, category, image, description } = product;
+  const price = formatTotalPrice(product);
   return (
     <div className='p-4 md:w-1/3'>
       <div className='h-full border-2 border-gray-800 rounded-lg overflow-hidden'>

@@ -6,6 +6,8 @@ export default function CheckoutCart() {
   const { cartCount } = useShoppingCart();
   const handleCheckout = useCheckout();
 
+  if (!cartCount) return <></>;
+
   return (
     <button
       className='inline-flex items-center bg-green-700 border-0 py-1 px-3 focus:outline-none hover:bg-green-600 rounded text-white mt-4 md:mt-0'
